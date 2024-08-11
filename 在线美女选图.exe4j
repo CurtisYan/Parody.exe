@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="9.0" transformSequenceNumber="3">
+  <directoryPresets config="D:/download/MicrosoftEdgeDropFiles/Default/test/out/artifacts/test_jar" />
+  <application name="在线美女选图" distributionSourceDir="C:/Users/34844/Desktop" />
+  <executable name="在线美女选图" wrapperType="embed" iconSet="true" iconFile="C:/Users/34844/Desktop/meinv.ico" executableMode="gui" />
+  <java mainClass="Test" minVersion="2.2" maxVersion="2.2">
+    <searchSequence>
+      <directory location="./jre" />
+    </searchSequence>
+    <classPath>
+      <archive location="D:/download/MicrosoftEdgeDropFiles/Default/test/out/artifacts/test_jar/test.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
