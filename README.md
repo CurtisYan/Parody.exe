@@ -1,5 +1,5 @@
 # Parody.exe
-Come and prank your good buddies.伪装成美女搜图的恶搞好基友exe，点击可实现1s关机
+Come and prank your good buddies.伪装成美女搜图的恶搞好基友exe，点击可实现1s关机<br>
 exe封面伪装成美女exe，让你的lsp好基友打开康康吧<br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5f5344cb-9f43-4255-aab6-acf540f07a4e"><br>
 运行时会建议你保存项目或文件<br>
